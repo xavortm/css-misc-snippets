@@ -1,0 +1,29 @@
+
+
+
+
+/* ========================== ASANA ========================== */
+#defaultSplash-footer svg {
+	display: none;
+}
+
+#defaultSplash-footer {
+  background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo.svg") no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height:90px;
+  margin-bottom:40px;
+}
+
+#header.has-reskinLogo {
+	background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo-white.svg") no-repeat left 15px center !important;
+  background-size: 80px !important;
+}
+
+.defaultSplash {
+}
+
+.known-list--withRowNumberGutter .columnView-leftGutter {
+  background: #2BCDC1 !important;
+  color: white !important;
+}
