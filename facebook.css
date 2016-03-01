@@ -1,0 +1,45 @@
+html:before { content: ''; display: block; z-index: 9999; position: fixed; background: white; height: 100%; width: 100%; pointer-events: none; mix-blend-mode: difference; transform: translate3d(0, 0, 0)	;
+}
+
+a { color: #826529 !important; }
+img { position: relative; }
+
+/* Inverting the invert*/
+.uiScaledImageContainer:before,
+._38vo:before,
+._pbn ._4z8-._4z8-:before,
+.stage:before,
+._2s25:before,
+._46-h._4-ep:before,
+._53j5:before,
+._iu-:before,
+.UFIReplyActorPhotoWrapper:before,
+._31o4:before { content: ''; display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; background: white; z-index: 99; mix-blend-mode: difference; pointer-events: auto;
+}
+
+._5vb_.hasLeftCol #leftCol, 
+._li,
+._50tj {
+	background: white;
+}
+
+.uiScaledImageContainer:before {
+	z-index: 1;
+}
+
+._3qx ._3ixn {
+	background: rgba(255, 255, 255, 0.8);
+}
+
+._20fw ._50mz.highlightTab .fbNubButton, ._20fw .fbNubFlyoutTitlebar {
+	background: black;
+}
+
+/* Header */
+._2s1x ._2s1y a { color: white !important; }
+._2s1x ._2s1y ._4q39,
+._2s1x ._2s1y ._2s25 { background: black; }
+._2t-a .uiToggle .uiToggleFlyout a { color: black !important; }
+._2s1x ._2s1y {}
+._50tk { background: white; color: black !important; text-shadow: none; }
+._50tk:hover { color: white !important; }
