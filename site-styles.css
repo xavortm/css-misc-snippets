@@ -50,3 +50,17 @@
 #logocont img {
   display: none;
 }
+
+
+/* ==========================================================================
+   WordPress Dashboard
+   ========================================================================== */
+#adminmenuwrap {
+    padding-top: 40px;
+    background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo-white.svg") center;
+    background-size: 100px !important;
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 5px;
+}
+
